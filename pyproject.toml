@@ -1,7 +1,7 @@
 [project]
 name = "jp-netprint"
-version = "0.1.0"
-description = "CLI for Japan 7-Eleven かんたん netprint (lite.printing.ne.jp)"
+version = "0.2.0"
+description = "Unified CLI/library for Japan konbini print services — 7-Eleven (lite.printing.ne.jp), Sharp Network Print / Lawson family (networkprint.ne.jp), and pic-chan ID photos."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
